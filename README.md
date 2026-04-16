@@ -1,4 +1,4 @@
-### L-Store Database Project
+### L-Store Database Project (AvenueDB)
 Core contributor in a team of 5:
 - Implemented buffer pool and memory management
 - Built full query engine (insert, update, select, delete)
